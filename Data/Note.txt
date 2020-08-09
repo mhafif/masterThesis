@@ -1,0 +1,1 @@
+This folder should contain the zip file containing celeba images preprocessed to be of the shape (48x48x3)

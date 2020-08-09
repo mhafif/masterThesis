@@ -1,0 +1,2 @@
+python PrecisionRecallPack/prd_from_image_folders.py --inception_path ./inception.pb --reference_dir ./mnistReal/ --eval_dirs ./mnistGAN ./mnistVAE ./mnistVAEGAN --eval_labels GAN VAE VAEGAN
+python PrecisionRecallPack/prd_from_image_folders.py --inception_path ./inception.pb --reference_dir ./celebaReal/ --eval_dirs ./celebaGAN ./celebaVAE ./celebaVAEGAN --eval_labels GAN VAE VAEGAN
